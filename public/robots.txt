@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nadee-herath-website-s272-mauve.vercel.app/sitemap.xml
